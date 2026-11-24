@@ -1,0 +1,92 @@
+club,temporada,condicion,n,p25,mediana,p75,nivel,periodo
+Arsenal FC,2023-24,Emitida + firmada,25,956,1177,1515,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2023-24,Usada + firmada,12,1813,2216,2982,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2024-25,Emitida + firmada,22,916,1163,1270,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2024-25,Usada,70,660,873,1485,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2024-25,Usada + firmada,15,1910,2115,3074,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2025-26,Emitida + firmada,43,893,1125,1638,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2025-26,Usada,224,849,1177,1642,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,2025-26,Usada + firmada,18,2811,3056,3610,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2023-24,Emitida + firmada,24,512,586,701,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2023-24,Usada + firmada,67,849,1550,2060,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2024-25,Emitida + firmada,115,246,362,532,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2024-25,Solo firmada,7,410,425,458,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2024-25,Usada + firmada,590,374,514,769,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2025-26,Emitida,33,200,400,501,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2025-26,Emitida + firmada,503,208,278,402,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2025-26,Usada,10,304,414,568,club+temporada+condicion,2023-08 a 2026-10
+Chelsea FC,2025-26,Usada + firmada,526,336,478,774,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2023-24,Emitida + firmada,9,1584,1871,2025,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2023-24,Usada + firmada,18,2672,3399,4030,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2024-25,Emitida,6,830,980,1463,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2024-25,Emitida + firmada,24,1072,1699,3131,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2024-25,Usada + firmada,40,1759,2946,4788,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2025-26,Emitida,6,1256,1350,1463,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2025-26,Emitida + firmada,39,672,926,1477,club+temporada+condicion,2023-08 a 2026-10
+Liverpool FC,2025-26,Usada + firmada,207,1006,1515,2228,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2023-24,Emitida,18,479,710,877,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2023-24,Emitida + firmada,30,508,766,989,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2023-24,Usada + firmada,33,999,1501,2346,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2024-25,Emitida + firmada,40,606,906,1266,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2024-25,Usada + firmada,24,923,1316,1665,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2025-26,Emitida,10,499,526,568,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2025-26,Emitida + firmada,127,365,490,740,club+temporada+condicion,2023-08 a 2026-10
+Manchester City,2025-26,Usada + firmada,63,701,853,1324,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2023-24,Emitida + firmada,21,962,1250,1754,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2023-24,Usada + firmada,20,2141,2920,5252,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2024-25,Emitida + firmada,12,942,1398,1946,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2024-25,Usada + firmada,45,1698,2602,3069,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2025-26,Emitida + firmada,12,895,1058,1488,club+temporada+condicion,2023-08 a 2026-10
+Manchester United,2025-26,Usada + firmada,21,2038,3900,4601,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2023-24,Emitida,131,220,291,372,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2023-24,Emitida + firmada,209,245,320,449,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2023-24,Usada,103,486,746,940,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2023-24,Usada + firmada,298,526,733,999,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2024-25,Emitida,140,132,198,295,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2024-25,Emitida + firmada,442,209,295,400,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2024-25,Usada,59,338,439,612,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2024-25,Usada + firmada,502,396,522,767,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,Emitida,64,192,226,302,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,Emitida + firmada,337,228,276,342,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,Solo firmada,8,396,406,416,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,Usada,28,358,397,621,club+temporada+condicion,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,Usada + firmada,371,330,439,702,club+temporada+condicion,2023-08 a 2026-10
+Arsenal FC,,Emitida + firmada,90,934,1150,1496,club+condicion,2023-08 a 2026-10
+Arsenal FC,,Usada,294,802,1118,1598,club+condicion,2023-08 a 2026-10
+Arsenal FC,,Usada + firmada,45,2100,2800,3384,club+condicion,2023-08 a 2026-10
+Chelsea FC,,Emitida,33,200,400,501,club+condicion,2023-08 a 2026-10
+Chelsea FC,,Emitida + firmada,642,222,290,451,club+condicion,2023-08 a 2026-10
+Chelsea FC,,Solo firmada,8,417,440,467,club+condicion,2023-08 a 2026-10
+Chelsea FC,,Usada,10,304,414,568,club+condicion,2023-08 a 2026-10
+Chelsea FC,,Usada + firmada,1183,367,517,831,club+condicion,2023-08 a 2026-10
+Liverpool FC,,Emitida,12,1042,1287,1521,club+condicion,2023-08 a 2026-10
+Liverpool FC,,Emitida + firmada,72,879,1132,1818,club+condicion,2023-08 a 2026-10
+Liverpool FC,,Usada + firmada,265,1127,1730,2727,club+condicion,2023-08 a 2026-10
+Manchester City,,Emitida,28,489,566,768,club+condicion,2023-08 a 2026-10
+Manchester City,,Emitida + firmada,197,400,570,926,club+condicion,2023-08 a 2026-10
+Manchester City,,Usada + firmada,120,812,1141,1792,club+condicion,2023-08 a 2026-10
+Manchester United,,Emitida + firmada,45,901,1250,1754,club+condicion,2023-08 a 2026-10
+Manchester United,,Usada + firmada,86,1946,2772,3833,club+condicion,2023-08 a 2026-10
+Tottenham Hotspur,,Emitida,335,184,244,335,club+condicion,2023-08 a 2026-10
+Tottenham Hotspur,,Emitida + firmada,988,228,292,385,club+condicion,2023-08 a 2026-10
+Tottenham Hotspur,,Solo firmada,12,184,399,416,club+condicion,2023-08 a 2026-10
+Tottenham Hotspur,,Usada,190,378,601,852,club+condicion,2023-08 a 2026-10
+Tottenham Hotspur,,Usada + firmada,1171,393,553,825,club+condicion,2023-08 a 2026-10
+Arsenal FC,2023-24,,37,992,1382,1962,club+temporada,2023-08 a 2026-10
+Arsenal FC,2024-25,,107,758,1158,1802,club+temporada,2023-08 a 2026-10
+Arsenal FC,2025-26,,285,863,1217,1814,club+temporada,2023-08 a 2026-10
+Chelsea FC,2023-24,,91,616,1058,1860,club+temporada,2023-08 a 2026-10
+Chelsea FC,2024-25,,712,363,487,736,club+temporada,2023-08 a 2026-10
+Chelsea FC,2025-26,,1073,249,366,616,club+temporada,2023-08 a 2026-10
+Liverpool FC,2023-24,,27,1872,2727,3886,club+temporada,2023-08 a 2026-10
+Liverpool FC,2024-25,,72,1498,1932,4106,club+temporada,2023-08 a 2026-10
+Liverpool FC,2025-26,,255,954,1416,2040,club+temporada,2023-08 a 2026-10
+Manchester City,2023-24,,81,584,951,1507,club+temporada,2023-08 a 2026-10
+Manchester City,2024-25,,64,694,1098,1504,club+temporada,2023-08 a 2026-10
+Manchester City,2025-26,,200,402,620,932,club+temporada,2023-08 a 2026-10
+Manchester United,2023-24,,41,1250,1851,2906,club+temporada,2023-08 a 2026-10
+Manchester United,2024-25,,58,1613,2374,3020,club+temporada,2023-08 a 2026-10
+Manchester United,2025-26,,36,1352,1857,4106,club+temporada,2023-08 a 2026-10
+Tottenham Hotspur,2023-24,,741,307,500,821,club+temporada,2023-08 a 2026-10
+Tottenham Hotspur,2024-25,,1147,263,375,572,club+temporada,2023-08 a 2026-10
+Tottenham Hotspur,2025-26,,808,260,338,494,club+temporada,2023-08 a 2026-10

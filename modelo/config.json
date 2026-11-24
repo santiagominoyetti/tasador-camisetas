@@ -1,0 +1,49 @@
+{
+  "backbone": "vit_base_patch16_siglip_224.webli",
+  "clases": [
+    "Arsenal FC | 2023-24",
+    "Arsenal FC | 2024-25",
+    "Arsenal FC | 2025-26",
+    "Chelsea FC | 2023-24",
+    "Chelsea FC | 2024-25",
+    "Chelsea FC | 2025-26",
+    "Liverpool FC | 2023-24",
+    "Liverpool FC | 2024-25",
+    "Liverpool FC | 2025-26",
+    "Manchester City | 2023-24",
+    "Manchester City | 2024-25",
+    "Manchester City | 2025-26",
+    "Manchester United | 2023-24",
+    "Manchester United | 2024-25",
+    "Manchester United | 2025-26",
+    "Tottenham Hotspur | 2023-24",
+    "Tottenham Hotspur | 2024-25",
+    "Tottenham Hotspur | 2025-26"
+  ],
+  "mean": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "std": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "temperatura": 0.5365872653156452,
+  "umbral_confianza": 0.5,
+  "umbral_nitidez": 21.0,
+  "lado_minimo_px": 224,
+  "dataset": "fka_camisetas_v2",
+  "dataset_sha256": "5d04cc72535e0e4791c29e5ec4f4fb923ac0a7830fb630e337459368d8a77dbe",
+  "metricas_test": {
+    "club": 0.9569,
+    "top1": 0.8707,
+    "top3": 0.9741,
+    "temp|club": 0.9052
+  },
+  "verificacion_fp16": {
+    "fotos": 588,
+    "acuerdo_top1": 1.0
+  }
+}
